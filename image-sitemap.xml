@@ -1,0 +1,17 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<link type="text/css" rel="stylesheet" id="dark-mode-custom-link"/>
+	<link type="text/css" rel="stylesheet" id="dark-mode-general-link"/>
+	<style lang="en" type="text/css" id="dark-mode-custom-style"/>
+	<style lang="en" type="text/css" id="dark-mode-native-style"/>
+		<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+	<url>
+		<loc>https://teyakirilova.github.io/bibliophile2.0/</loc>
+		<lastmod>2022-02-17T22:09:53+00:00</lastmod>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://teyakirilova.github.io/bibliophile2.0/product.html</loc>
+		<lastmod>2022-02-17T22:09:53+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+</urlset>
