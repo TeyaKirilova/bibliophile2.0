@@ -1,0 +1,17 @@
+.privacy-policies{
+    position: relative;
+    overflow: hidden;
+    padding: 20px 0;
+    color:  #415C50;
+    padding: 0 10vw;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 40px;
+    text-transform: capitalize;
+}
+
+.privacy-policies-text{
+    text-transform: capitalize;
+    color: #415C50;
+    padding: 0 10vw;
+}
